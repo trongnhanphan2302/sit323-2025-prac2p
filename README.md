@@ -4,7 +4,7 @@
 Install Node.js from https://nodejs.org and Git from https://git-scm.com.
 
 ### Step 2: Clone the repository
-git clone https://github.com/yourusername/sit323-2025-prac2p.git
+git clone https://github.com/trongnhanphan2302/sit323-2025-prac2p.git
 cd sit323-2025-prac2p
 
 ### Step 3: Install dependencies
